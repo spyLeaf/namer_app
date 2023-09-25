@@ -75,7 +75,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 destinations: [
                   NavigationRailDestination(
                     icon: Icon(Icons.home),
-                    label: Text('Home'),
+                    label: Text('Homes'),
                   ),
                   NavigationRailDestination(
                     icon: Icon(Icons.favorite),
